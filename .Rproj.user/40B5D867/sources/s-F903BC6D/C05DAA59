@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586126979243.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C05DAA59",
+    "lastKnownWriteTime" : 1586158924,
+    "last_content_update" : 1586158924095,
+    "path" : "F:/edx/project1/Project1/Exploratory data analysis.R",
+    "project_path" : "Exploratory data analysis.R",
+    "properties" : {
+        "cursorPosition" : "16,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
